@@ -1,4 +1,4 @@
-package com.comunity.ddd.Controller;
+package com.comunity.ddd.application.api.controllers;
 
 import org.springframework.stereotype.Controller;
 
